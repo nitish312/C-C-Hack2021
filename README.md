@@ -1,6 +1,7 @@
 # C-C-Hack2021
-contains cpp files
+Thank you for visiting.
+This repository contains searching and sorting algorithms in C++ language.
 c/c++ repo for Hacktoberfest 2021
 
-Nitish Chintakindi says that this repository is amazing
+
 
